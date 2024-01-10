@@ -1,5 +1,7 @@
 import numpy as np
 
+# New goes here
+
 msg = "Roll a dice"
 print(msg)
 
